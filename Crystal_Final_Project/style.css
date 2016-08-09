@@ -1,0 +1,68 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {background-color:red;
+width:1000px;
+margin-left:100px;
+}
+h1 {font-size:50px;
+text-align:center;}
+
+p {font-size:24px;
+font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;}
+.topdiv{background-color:}
+
+header { 
+border:solid;
+margin: 10px 50px 75px 50px;
+padding:5px;
+}
+	
+section {border:solid;
+border-color:#000000;
+}
+.super {font-size:20px;
+font-family: Impact;
+}
+
+nav{
+	width:30%;
+	 float:left;
+	 border:solid;
+	 margin-right:30px; FONT-SIZE:24px;
+}
+
+section { 
+          width:70%;
+}
+.black {font-weight:bold;} 
+
+.galleria {
+width: 700px;
+height: 700px;
+background: #000;
+}
+a{
+	text-decoration:none;
+	}
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
+
